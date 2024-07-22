@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603098994020",
+    "project_id": "sindh-7ca2c",
+    "storage_bucket": "sindh-7ca2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603098994020:android:77720d4c11d2265e509671",
+        "android_client_info": {
+          "package_name": "com.hamid.sindh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603098994020-f2l9prtirf8rhm9cjbh41p0epeekoq4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2eHeMdI_UnQmCJob5dh3GMcLd9n4AIaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603098994020-f2l9prtirf8rhm9cjbh41p0epeekoq4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
